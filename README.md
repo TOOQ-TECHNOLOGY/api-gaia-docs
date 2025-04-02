@@ -4,8 +4,7 @@ This repository hosts the OpenAPI specification and interactive documentation fo
 
 ## Documentation Links
 
-- [Swagger UI Documentation](https://yourusername.github.io/your-api-docs/) - Interactive documentation with Swagger UI
-- [Redoc Documentation](https://yourusername.github.io/your-api-docs/redoc.html) - Alternative documentation with Redoc
+- [Swagger UI Documentation](https://renatodiascosta.github.io/your-api-docs/) - Interactive documentation with Swagger UI
 
 ## Development
 
